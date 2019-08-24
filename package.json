@@ -1,0 +1,34 @@
+{
+  "name": "patriotapp4",
+  "version": "1.0.0",
+  "description": "Military app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jldueyusa/patriotapp4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jldueyusa/patriotapp4/issues"
+  },
+  "homepage": "https://github.com/jldueyusa/patriotapp4#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cloudinary-react": "^1.1.4",
+    "config": "^3.2.2",
+    "express": "^4.17.1",
+    "express-validator": "^6.1.1",
+    "gravatar": "^1.8.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.6.10",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "concurrently": "^4.1.2",
+    "nodemon": "^1.19.1"
+  }
+}
